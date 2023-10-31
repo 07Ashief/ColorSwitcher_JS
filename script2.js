@@ -20,8 +20,5 @@ buttons.forEach( function(button){
         else if (click === 'yellow') {
             body.style.backgroundColor = click
         }
-        else if (click === 'clear') {
-            body.style.backgroundColor = 'white'
-        }
     })
 })
