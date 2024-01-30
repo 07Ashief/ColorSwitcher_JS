@@ -19,14 +19,23 @@ span{
 #grey{
     background:grey ;
 }
-#white{
-    background: whitesmoke;
+#purple{
+    background: purple;
 }
 #blue{
     background-color: blue;
 }
 #yellow{
     background-color: yellow;
+}
+
+#clear{
+    height: 25px;
+    width: 50px;
+    color: #fff;
+    background-color: #000;
+    border-radius: 10px;
+
 }
 
 
