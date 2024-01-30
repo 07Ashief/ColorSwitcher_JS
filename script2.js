@@ -28,34 +28,5 @@ buttons.forEach( function(button){
 })
 
 
-// const colr = (document.querySelectorAll('.button'))
-// const body = document.querySelector('body')
-// console.log(body)
 
-// colr.forEach(function (click) {
-//     click.addEventListener('click', function(e){
-//         // console.log(e)
-//         // console.log(e.target.id)
-//         const touch = e.target.id
-//         if(touch === 'grey'){
-//             body.style.backgroundColor = touch
-//         }
-//         else if(touch === 'purple'){
-//             body.style.backgroundColor = touch
-//         }
-//         else if(touch === 'blue'){
-//             body.style.backgroundColor = touch
-//         }
-//         else if(touch === 'yellow'){
-//             body.style.backgroundColor = touch
-//         }
-       
-        
-//     })
-// })
-
-// const clr = document.querySelector('#clear')
-// clr.addEventListener('click', function (e) {
-//    body.style.backgroundColor = 'white'
-// })
 
